@@ -5,4 +5,5 @@ INSERT INTO tb_roles (authority) VALUES ('VISITOR');
 INSERT INTO tb_roles (authority) VALUES ('MEMBER');
 
 INSERT INTO tb_users_roles (user_id, role_id) VALUES (1, 1);
+
 INSERT INTO tb_users_roles (user_id, role_id) VALUES (2, 2);
